@@ -1,4 +1,4 @@
 hej::void huj()
 {
-	hoj = 20;
+	hoj = 20; //ööööh
 }
