@@ -2,7 +2,7 @@
 
 hej::void huj()
 {
-	hoj = 20; //ööööh
+	hoj = 20; //ööööh vasdå
 }
 
 hej::void hoj()
